@@ -1,4 +1,1 @@
-[build]
-  command = "npm run build"
-  publish="react-sorting-hat/build"
-  base = "react-sorting-hat"
+
